@@ -1,6 +1,6 @@
 //This program allows the user to play black jack against the computer.
 import java.util.Scanner;
-
+// This is a change for lab 6
 public class Blackjack {
 
     public static String getUserCardName (int userCardGenerated) { // this method changes the random generated
